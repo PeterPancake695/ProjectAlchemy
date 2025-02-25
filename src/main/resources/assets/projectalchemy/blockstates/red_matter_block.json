@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "projectalchemy:block/red_matter_block"
+    }
+  }
+}

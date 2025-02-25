@@ -1,0 +1,10 @@
+{
+  "item.projectalchemy.dark_matter": "Dark Matter",
+  "item.projectalchemy.red_matter": "Red Matter",
+  "item.projectalchemy.philosophers_stone": "Philosopher's Stone",
+
+  "block.projectalchemy.dark_matter_block": "Block of Dark Matter",
+  "block.projectalchemy.red_matter_block": "Block of Red Matter",
+
+  "creativetab.projectalchemy": "Project Alchemy"
+}
