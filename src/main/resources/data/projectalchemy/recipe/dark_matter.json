@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "dark_matter",
+  "key": {
+    "A": {
+      "item": "projectalchemy:aeternalis_fuel"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ADA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "projectalchemy:dark_matter"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "dark_matter",
+  "ingredients": [
+    {
+      "item": "projectalchemy:dark_matter_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "projectalchemy:dark_matter"
+  }
+}

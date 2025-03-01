@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "projectalchemy:dark_matter_block",
+    "projectalchemy:red_matter_block",
+    "projectalchemy:alchemical_coal_block",
+    "projectalchemy:mobius_fuel_block",
+    "projectalchemy:aeternalis_fuel_block"
+  ]
+}

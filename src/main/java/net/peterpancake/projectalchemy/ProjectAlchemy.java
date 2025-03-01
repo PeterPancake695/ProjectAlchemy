@@ -4,6 +4,7 @@ import net.minecraft.world.item.CreativeModeTabs;
 import net.peterpancake.projectalchemy.block.ModBlocks;
 import net.peterpancake.projectalchemy.item.ModCreativeModeTabs;
 import net.peterpancake.projectalchemy.item.ModItems;
+import net.peterpancake.projectalchemy.sound.ModSounds;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -43,6 +44,7 @@ public class ProjectAlchemy {
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         ModCreativeModeTabs.register(modEventBus);
+        ModSounds.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);

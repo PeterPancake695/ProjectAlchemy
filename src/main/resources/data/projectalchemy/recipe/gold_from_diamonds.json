@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "gold_ingot",
+  "ingredients": [
+    {
+      "item": "projectalchemy:philosophers_stone"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot",
+    "count": 4
+  }
+}

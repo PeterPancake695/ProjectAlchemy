@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "H": {
+      "item": "projectalchemy:covalence_dust_high"
+    },
+    "D":  {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "DHD",
+    "HSH",
+    "DHD"
+  ],
+  "result": {
+    "id": "projectalchemy:philosophers_stone"
+  }
+}

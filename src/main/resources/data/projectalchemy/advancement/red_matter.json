@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "projectalchemy:dark_matter"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "projectalchemy:red_matter_h",
+      "projectalchemy:red_matter_v"
+    ]
+  }
+}

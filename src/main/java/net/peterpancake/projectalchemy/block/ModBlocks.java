@@ -22,7 +22,19 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> RED_MATTER_BLOCK = registerBlock("red_matter_block",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .strength(6f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
+                    .strength(5f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
+
+    public static final DeferredBlock<Block> ALCHEMICAL_COAL_BLOCK = registerBlock("alchemical_coal_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(5f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+
+    public static final DeferredBlock<Block> MOBIUS_FUEL_BLOCK = registerBlock("mobius_fuel_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(5f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+
+    public static final DeferredBlock<Block> AETERNALIS_FUEL_BLOCK = registerBlock("aeternalis_fuel_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(5f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {

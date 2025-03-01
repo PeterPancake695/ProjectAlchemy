@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "projectalchemy:red_matter"
+    }
+  },
+  "pattern": [
+    "RR",
+    "RR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "projectalchemy:red_matter_block"
+  }
+}
