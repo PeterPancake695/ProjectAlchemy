@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "projectalchemy:block/aeternalis_fuel_block"
+    }
+  }
+}

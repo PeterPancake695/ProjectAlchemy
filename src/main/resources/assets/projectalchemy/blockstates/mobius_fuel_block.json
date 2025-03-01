@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "projectalchemy:block/mobius_fuel_block"
+    }
+  }
+}

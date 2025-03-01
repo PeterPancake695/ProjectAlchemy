@@ -1,0 +1,19 @@
+{
+  "item.projectalchemy.dark_matter": "Dark Matter",
+  "item.projectalchemy.red_matter": "Red Matter",
+  "item.projectalchemy.philosophers_stone": "Philosopher's Stone",
+  "item.projectalchemy.alchemical_coal": "Alchemical Coal",
+  "item.projectalchemy.mobius_fuel": "Mobius Fuel",
+  "item.projectalchemy.aeternalis_fuel": "Aeternalis Fuel",
+  "item.projectalchemy.covalence_dust_low": "Low Covalence Dust",
+  "item.projectalchemy.covalence_dust_medium": "Medium Covalence Dust",
+  "item.projectalchemy.covalence_dust_high": "High Covalence Dust",
+
+  "block.projectalchemy.dark_matter_block": "Block of Dark Matter",
+  "block.projectalchemy.red_matter_block": "Block of Red Matter",
+  "block.projectalchemy.alchemical_coal_block": "Block of Alchemical Coal",
+  "block.projectalchemy.mobius_fuel_block": "Block of Mobius Fuel",
+  "block.projectalchemy.aeternalis_fuel_block": "Block of Aeternalis Fuel",
+
+  "creativetab.projectalchemy": "Project Alchemy"
+}

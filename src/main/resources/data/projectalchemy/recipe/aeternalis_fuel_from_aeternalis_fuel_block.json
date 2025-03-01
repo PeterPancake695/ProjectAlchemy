@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "aeternalis_fuel",
+  "ingredients": [
+    {
+      "item": "projectalchemy:aeternalis_fuel_block"
+    }
+  ],
+  "result": {
+    "id": "projectalchemy:aeternalis_fuel",
+    "count": 9
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "chargetick" : {
+    "subtitle": "sounds.projectalchemy.chargetick",
+    "sounds": [
+      "projectalchemy:chargetick"
+    ]
+  },
+  "gust" : {
+    "subtitle": "sounds.projectalchemy.gust",
+    "sounds": [
+      "projectalchemy:gust"
+    ]
+  },
+  "kinesis" : {
+    "subtitle": "sounds.projectalchemy.kinesis",
+    "sounds": [
+      "projectalchemy:kinesis"
+    ]
+  },
+  "launch" : {
+    "subtitle": "sounds.projectalchemy.launch",
+    "sounds": [
+      "projectalchemy:launch"
+    ]
+  },
+  "nova" : {
+    "subtitle": "sounds.projectalchemy.nova",
+    "sounds": [
+      "projectalchemy:nova"
+    ]
+  },
+  "pacharge" : {
+    "subtitle": "sounds.projectalchemy.pacharge",
+    "sounds": [
+      "projectalchemy:pacharge"
+    ]
+  },
+  "padestruct" : {
+    "subtitle": "sounds.projectalchemy.padestruct",
+    "sounds": [
+      "projectalchemy:padestruct"
+    ]
+  },
+  "paheal" : {
+    "subtitle": "sounds.projectalchemy.paheal",
+    "sounds": [
+      "projectalchemy:paheal"
+    ]
+  },
+  "papower" : {
+    "subtitle": "sounds.projectalchemy.papower",
+    "sounds": [
+      "projectalchemy:papower"
+    ]
+  },
+  "patransmute" : {
+    "subtitle": "sounds.projectalchemy.patransmute",
+    "sounds": [
+      "projectalchemy:patransmute"
+    ]
+  },
+  "pauncharge" : {
+    "subtitle": "sounds.projectalchemy.pauncharge",
+    "sounds": [
+      "projectalchemy:pauncharge"
+    ]
+  },
+  "pawatermagic" : {
+    "subtitle": "sounds.projectalchemy.pawatermagic",
+    "sounds": [
+      "projectalchemy:pawatermagic"
+    ]
+  },
+  "pawindmagic" : {
+    "subtitle": "sounds.projectalchemy.pawindmagic",
+    "sounds": [
+      "projectalchemy:pawindmagic"
+    ]
+  },
+  "philball" : {
+    "subtitle": "sounds.projectalchemy.philball",
+    "sounds": [
+      "projectalchemy:philball"
+    ]
+  },
+  "tock" : {
+    "subtitle": "sounds.projectalchemy.tock",
+    "sounds": [
+      "projectalchemy:tock"
+    ]
+  }
+}
